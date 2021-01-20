@@ -1,9 +1,0 @@
-{
-    "ID": 0,
-    "project_name": "Node-Express Site",
-    "description": "Treehouse unit 6 project",
-    "technologies": ["Node.js", "Express", "PUG"],
-    "live_link": "",
-    "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
-    "image_urls": ["/views/images/"]
-}

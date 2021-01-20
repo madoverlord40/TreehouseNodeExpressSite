@@ -1,0 +1,37 @@
+{
+    "projects": {
+        "0": {
+        "project_name": "Random Quote Generator",
+        "description": "Treehouse unit 2 project",
+        "technologies": ["Node.js", "Express", "PUG"],
+        "live_link": "",
+        "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
+        "image_urls": [""]
+        },
+        "1": {
+        "project_name": "Data Pagination Site",
+        "description": "Treehouse unit 3 project",
+        "technologies": ["DOM", "javascript", "HTML", "CSS"],
+        "live_link": "",
+        "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
+        "image_urls": ["/images/DataPagination.png"]
+        },
+        "2": {
+        "project_name": "Interactive Forms Site",
+        "description": "Treehouse unit 4 project",
+        "technologies": ["DOM", "javascript", "HTML", "CSS"],
+        "live_link": "",
+        "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
+        "image_urls": ["/images/InteractiveForms.png"]
+        },
+        "3": {
+        "project_name": "Phrase Hunter Site",
+        "description": "Treehouse unit 5 project",
+        "technologies": ["DOM", "javascript", "HTML", "CSS"],
+        "live_link": "",
+        "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
+        "image_urls": ["/images/PhraseHunter.png",
+                    "/images/PhraseHunter2.png"]
+        }
+    }
+}
