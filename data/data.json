@@ -3,39 +3,48 @@
         "0": {
             "Id": "0",
             "project_name": "Random Quote Generator",
-            "description": "Treehouse unit 2 project",
-            "technologies": ["Node.js", "Express", "PUG"],
-            "live_link": "",
+            "description": "Treehouse unit 1 project",
+            "technologies": ["DOM", "javascript", "HTML", "CSS"],
+            "live_link": "http://47.25.208.112:3000/?project=quotes",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
-            "image_urls": [""]
+            "image_urls": ["/images/quotes1.png", "/images/quotes2.png","/images/quotes3.png"]
         },
         "1": {
             "Id": "1",
             "project_name": "Data Pagination Site",
-            "description": "Treehouse unit 3 project",
+            "description": "Treehouse unit 2 project",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "http://47.25.208.112:3000/?project=pagination",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
-            "image_urls": ["/images/DataPagination.png"]
+            "image_urls": ["/images/DataPagination.png","/images/DataPagination2.png","/images/DataPagination3.png", "/images/DataPagination4.png"]
         },
         "2": {
             "Id": "2",
             "project_name": "Interactive Forms Site",
-            "description": "Treehouse unit 4 project",
+            "description": "Treehouse unit 3 project",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=forms",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
-            "image_urls": ["/images/InteractiveForms.png"]
+            "image_urls": ["/images/InteractiveForms.png", "/images/InteractiveForms2.png", "/images/InteractiveForms3.png"]
         },
         "3": {
             "Id": "3",
             "project_name": "Phrase Hunter Site",
-            "description": "Treehouse unit 5 project",
+            "description": "Treehouse unit 4 project",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
-            "live_link": "",
+            "live_link": "http://47.25.208.112:3000/?project=game",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
             "image_urls": ["/images/PhraseHunter.png",
-                        "/images/PhraseHunter2.png"]
+                        "/images/PhraseHunter2.png", "/images/PhraseHunter3.png"]
+        },
+        "4": {
+            "Id": "4",
+            "project_name": "Public API Requests",
+            "description": "Treehouse unit 5 project",
+            "technologies": ["DOM", "javascript", "HTML", "CSS"],
+            "live_link": "http://47.25.208.112:3000/?project=publicapi",
+            "github_link": "https://github.com/madoverlord40/TreehousePublicAPIRequest.git",
+            "image_urls": ["/images/publicapi.png","/images/publicapi2.png","/images/publicapi3.png"]
         }
     }
 }
