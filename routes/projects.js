@@ -4,13 +4,15 @@ const data = require('../data/data.json');
 const projects = data.projects;
 
 router.get( '/', ( req, res ) => {
-  res.render( `project` )
+  console.log("root projects!");
 });
 
 router.get('/:id', (req, res) => {
+    const index = req.params.id;
+    console.log(`projects id=${index}`);
+    const templateData = projects[index];
+    res.render( `project`, {templateData});
     
-    const { id } = req.params;
-    return res.redirect(`/projects/${id}`);
 });
 
 module.exports = router;

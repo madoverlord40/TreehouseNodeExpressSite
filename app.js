@@ -12,7 +12,7 @@ app.use('/images', express.static('public/images'));
 app.set('view engine', 'pug');
 
 const mainRoutes = require('./routes');
-const projectRoutes = require('./routes/projects');
+const projectRoutes = require('./routes/projects.js');
 
 app.use(mainRoutes);
 app.use('/projects', projectRoutes);
