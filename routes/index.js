@@ -8,4 +8,8 @@ router.get('/', (req, res) => {
     res.render('index', {projectData} );
 });
 
+router.get('/about', (req, res) => {
+    res.render('about', {projectData} );
+});
+
 module.exports = router;
