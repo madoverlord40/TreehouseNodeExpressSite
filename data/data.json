@@ -3,7 +3,7 @@
         "0": {
             "Id": "0",
             "project_name": "Random Quote Generator",
-            "description": "Treehouse unit 1 project",
+            "description": "Treehouse unit 1 project. A website that demonstrates updating the DOM dynamically using a timer.",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=quotes",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
@@ -12,7 +12,7 @@
         "1": {
             "Id": "1",
             "project_name": "Data Pagination Site",
-            "description": "Treehouse unit 2 project",
+            "description": "Treehouse unit 2 project. A website that demonstrates organizing the DOM using paging logic.",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=pagination",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
@@ -21,7 +21,7 @@
         "2": {
             "Id": "2",
             "project_name": "Interactive Forms Site",
-            "description": "Treehouse unit 3 project",
+            "description": "Treehouse unit 3 project. A website that demonstrates responding to DOM input using forms and input checking via RegX logic.",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=forms",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
@@ -30,7 +30,7 @@
         "3": {
             "Id": "3",
             "project_name": "Phrase Hunter Site",
-            "description": "Treehouse unit 4 project",
+            "description": "Treehouse unit 4 project. A website that demonstrates more dynamic DOM manipulation using event listeners and logic.",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=game",
             "github_link": "https://github.com/madoverlord40/TreehouseNodeExpressSite.git",
@@ -40,7 +40,7 @@
         "4": {
             "Id": "4",
             "project_name": "Public API Requests",
-            "description": "Treehouse unit 5 project",
+            "description": "Treehouse unit 5 project. A website to demonstrate fetching information from a remote resource, and then dynamically updating the DOM with that information.",
             "technologies": ["DOM", "javascript", "HTML", "CSS"],
             "live_link": "http://47.25.208.112:3000/?project=publicapi",
             "github_link": "https://github.com/madoverlord40/TreehousePublicAPIRequest.git",
